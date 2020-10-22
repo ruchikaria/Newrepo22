@@ -5,7 +5,11 @@
     <label>Vote Count</label>
     <summaryForeignKey>Vote__c.Score__c</summaryForeignKey>
     <summaryOperation>count</summaryOperation>
+    <!-- summaaeyyfhjfhjf-->
     <trackHistory>false</trackHistory>
-    <trackTrending>false</trackTrending>
+    <!-- summaaeyyfhjfhjf-->
+    <trackTrending>false
+        <!-- summaaeyyfhjfhjf-->
+    </trackTrending>
     <type>Summary</type>
 </CustomField>
