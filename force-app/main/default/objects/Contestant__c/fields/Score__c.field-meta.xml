@@ -7,7 +7,7 @@
     <summaryForeignKey>Vote__c.Score__c</summaryForeignKey>
     <summaryOperation>sum</summaryOperation>
     <!-- tag-->
-    <trackHistory>true</trackHistory>
+    <trackHistory>false</trackHistory>
      <!-- tag-->
     <trackTrending>false</trackTrending>
     <type>Summary</type>
