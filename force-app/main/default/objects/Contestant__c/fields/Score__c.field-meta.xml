@@ -6,7 +6,9 @@
     <summarizedField>Vote__c.Rating__c</summarizedField>
     <summaryForeignKey>Vote__c.Score__c</summaryForeignKey>
     <summaryOperation>sum</summaryOperation>
+    <!-- tag-->
     <trackHistory>true</trackHistory>
+     <!-- tag-->
     <trackTrending>false</trackTrending>
     <type>Summary</type>
 </CustomField>
